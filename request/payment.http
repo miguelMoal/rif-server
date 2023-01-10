@@ -1,0 +1,6 @@
+POST http://localhost:8080/api/payment
+x-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2MzlmYjRkZmZiMDNkNDUxYTYyYzY0NTEiLCJuYW1lIjoianVhbiIsImlhdCI6MTY3MTkxMzIwOSwiZXhwIjoxNjcxOTk5NjA5fQ.NHndTWiDG1or4o1VdmWBuSukggafUlzmIPJxQYoSi5Q
+
+###
+POST http://localhost:8080/api/payment/refound
+x-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2MzlmYjRkZmZiMDNkNDUxYTYyYzY0NTEiLCJuYW1lIjoianVhbiIsImlhdCI6MTY3MTkxMzIwOSwiZXhwIjoxNjcxOTk5NjA5fQ.NHndTWiDG1or4o1VdmWBuSukggafUlzmIPJxQYoSi5Q

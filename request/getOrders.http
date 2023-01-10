@@ -1,0 +1,2 @@
+GET http://localhost:8080/api/orders
+x-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2MzlmYjRkZmZiMDNkNDUxYTYyYzY0NTEiLCJuYW1lIjoianVhbiIsImlhdCI6MTY3MjcwNjE2NSwiZXhwIjoxNjcyNzkyNTY1fQ.yexxuXn0mG8jaavNPQDsjJrn2vX2qJ-wUE9a0obKM_I

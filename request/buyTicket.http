@@ -1,0 +1,7 @@
+POST http://localhost:8080/api/tickets/buyTicket
+content-type: application/json
+x-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2M2IzODIyOWUyMTA4MTcyODFkNDY0MTgiLCJuYW1lIjoianVhbiIsImlhdCI6MTY3MjcwODY0OSwiZXhwIjoxNjcyNzk1MDQ5fQ.WUySmUTgPU0mincIBtjzdQQWzrh1tBgiUS8okfYYd-4
+
+{
+    "orderId": "63a10c4aead1ae91212d08e5"
+}
