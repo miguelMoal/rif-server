@@ -20,7 +20,7 @@ content-type: application/json
 
 
 ### production
-POST https://rif-server-git-main-moalmiguel-gmailcom.vercel.app/api/auth
+POST https://rif-server.vercel.app/api/auth
 content-type: application/json
 
 {
