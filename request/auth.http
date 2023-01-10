@@ -17,3 +17,13 @@ content-type: application/json
     "email": "juaan@example.com",
     "password": "123456"
 }
+
+
+### production
+POST https://rif-server-git-main-moalmiguel-gmailcom.vercel.app/api/auth
+content-type: application/json
+
+{
+    "email": "juaan@example.com",
+    "password": "123456"
+}
