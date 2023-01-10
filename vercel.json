@@ -8,5 +8,17 @@
     "GOOGLE_APPLICATION_CREDENTIALS": "./service_account_key.json",
     "STRIPE_SECRET_KEY": "sk_test_51MIbFPKIMXWjyb0RGU6X9RpKl0PipuBRwxZp2oTUwKqaxfYE6ULquozBP4i3DOUCJwxJx6rnhoRGsT7nbtTnhJ4N00Cc4G9JWZ"
   },
-  "routes": [{ "src": "/(.*)", "dest": "/index.js" }]
+  "version": 2,
+  "builds": [
+    {
+      "src": "index.js",
+      "use": "@now/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "index.js"
+    }
+  ]
 }
